@@ -2,7 +2,7 @@
 
 3D DEM (digital elevation model) in orbital view of Porto Alegre city, Rio Grande do Sul, Brazil.  
   
-See and browse it at: https://smaprs.github.io/PoA-vias-Night/  
+See and browse it at: https://smaprs.github.io/PoA-vias-Night/
 (it may took a while to download)
    
 Made in QGIS using:  
